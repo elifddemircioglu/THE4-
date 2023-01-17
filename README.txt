@@ -1,6 +1,6 @@
 HOW TO RUN THE TESTER ?
 
-Put your code in the this folder (the4_tester) with the name "the4.py"
+Put your code in the folder you downloaded with the name "the4.py"
 Open your terminal go the same directory.
 Write python or python3.
 
