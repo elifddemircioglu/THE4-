@@ -16,4 +16,4 @@ generator.py is a case generator but after it adds a case, case should be modifi
 
 If you think something is wrong, feel free to contact me.
 
-Cases between 18-41 belongs to Ahmet Uğur.  
+Cases between 18-39 belongs to Ahmet Uğur.  
