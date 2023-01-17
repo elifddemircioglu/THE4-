@@ -1,7 +1,7 @@
 HOW TO RUN THE TESTER ?
 
-Put your code in the folder you downloaded with the name "the4.py"
-Open your terminal go the same directory.
+Put your code with the name "the4.py" into the same folder you downloaded here.
+Open your terminal and go to the same directory.
 Write python or python3.
 
 Then run:
