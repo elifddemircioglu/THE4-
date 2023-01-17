@@ -44,8 +44,7 @@ def tester():
             false_lines.append(n+1)
             n +=1
         else:
-            n +=1    
-    print(comparison)      
+            n +=1          
 
     if false_lines != []:
         print("False cases' line numbers are :" , false_lines)
